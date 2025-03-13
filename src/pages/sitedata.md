@@ -1,24 +1,22 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Steven Rigler
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/steven-rigler.jpg
+  alt: Steven Rigler's headshot
+siteUrl: https://aboutstevenrigler.com
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://twitter.com/steven_rigler_
     label: Visit
     show: true
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/stevenrigler/
     label: Visit
     show: true
   pinterest:
@@ -35,6 +33,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+location: San Diego, California, USA
 fallbackImage: /img/pic-executive-main-banner-01.webp
+jobTitle: Experienced Chiropractor in San Diego
 siteAnalytics: null
 ---
