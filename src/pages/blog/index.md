@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Based in San Diego, California, Dr. Steven Rigler earned a
+  bachelor’s degree in human biology from Cal Poly San Luis Obispo and his
+  Doctor of Chiropractic (DC) degree from the Los Angeles College of
+  Chiropractic.
 published: true
 schemaType: WebPage
 header: Blog
